@@ -10,9 +10,10 @@
  *
  * The C Programming Language - the second edition
  * by Brian Kernighan and Dennis Ritchie
- * * Author: Li Zhineng <lizhineng@gmail.com>
- * URL:    https://zhineng.li
+ *
  * File:   2-1-ranges.c
+ * Author: Li Zhineng <lizhineng@gmail.com>
+ * URL:    https://zhineng.li
  * Date:   2017-06-06
  */
 
