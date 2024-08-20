@@ -1,8 +1,12 @@
-# Learning THE C PROGRAMMING LANGUAGE
-The exercises I wrote during my learning processes of THE C PROGRAMMING LANGUAGE(SECOND EDITION) by K&amp;R.
+# Solution to The C Programming Language 2nd, KnR
 
-## References
+How time flies! The book has been sitting on my bookshelf for almost a decade,
+and I still haven’t finished it. I want to start it over and am determined to
+complete it this time.
 
-Thanks for the open Internet, I was referencing lots of code when I got stuck during my learning processes of the book, here is the main reference materials.
+The book is my exercise solutions to The C Programming Language, Second
+Edition, by Kernighan and Ritchie, in its Chinese version.
 
-* https://github.com/thvdburgt/KnR-The-C-Programming-Language-Solutions/
+Although I’m not a professional C programmer, my experience with low-level
+programming languages can deepen my understanding of how PHP works. This, in
+turn, will help me write better PHP code, which I work with every day.
