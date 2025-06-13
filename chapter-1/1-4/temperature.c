@@ -1,3 +1,9 @@
+/**
+ * Exercise 1-4, page 13
+ *
+ * Write a program to print the correspoding Celsius to Fahrenheit table.
+ */
+
 #include <stdio.h>
 
 /* print Celsius-Fahrenheit table */

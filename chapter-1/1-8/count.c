@@ -1,3 +1,9 @@
+/**
+ * Exercise 1-8, page 20
+ *
+ * Write a program to count blanks, tabs, and new lines.
+ */
+
 #include <stdio.h>
 
 int main()

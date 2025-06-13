@@ -1,3 +1,10 @@
+/**
+ * Exercise 1-9, page 20
+ *
+ * Write a program to copy its input to its output, replacing each string of
+ * one or more blanks by a single blank.
+ */
+
 #include <stdio.h>
 
 /* I get it, we can refactor with `else` to simplify the code, but with the
