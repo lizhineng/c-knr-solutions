@@ -15,12 +15,12 @@ int main()
 	while ((c = getchar()) != EOF) {
 		if (c == '\t')
 			printf("\\t");
-		if (c == '\b')
+		if (c == ' ')
 			printf("\\b");
 		if (c == '\\')
 			printf("\\\\");
 		if (c != '\t')
-			if (c != '\b')
+			if (c != ' ')
 				if (c != '\\')
 					putchar(c);
 	}
