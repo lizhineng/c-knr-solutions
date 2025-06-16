@@ -6,19 +6,22 @@
 
 #include <stdio.h>
 
+#define IN 1   /* inside a word */
+#define OUT 0  /* outside a word */
+
 int main()
 {
-	int c, d;
+	int c, state;
 
-	d = 0;
+	state = OUT;
 	while ((c = getchar()) != EOF) {
 		if (c == ' ' || c == '\n' || c == '\t') {
-			if (d == 0) {
+			if (state == IN) {
 				putchar('\n');
 			}
-			d = 1;
+			state = OUT;
 		} else {
-			d = 0;
+			state = IN;
 			putchar(c);
 		}
 	}
