@@ -1,3 +1,18 @@
+/**
+ * Exercise 1-13, page 24
+ *
+ * Write a program to print a histogram of the lengths of words in its input.
+ * It is easy to draw the histogram with the bars horizontal; a vertical
+ * orientation is more challenging.
+ *
+ * Example:
+ *  1: ##
+ *  2: ###
+ *  ...
+ *  8:
+ * >8: ##
+ */
+
 #include <stdio.h>
 
 #define MAX_LENGTH 10

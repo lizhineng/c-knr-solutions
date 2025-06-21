@@ -1,3 +1,10 @@
+/**
+ * Exercise 1-15, page 27
+ *
+ * Rewrite the temperature conversion program of Section 1.2
+ * to use a function for conversion.
+ */
+
 #include <stdio.h>
 
 int fahr2celsius(int fahr)
